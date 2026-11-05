@@ -37,11 +37,5 @@
 
 **Backend & Tools:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuckySinghRawat&show_icons=true&theme=default" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckySinghRawat&layout=compact" height="150">
-</p>
-
 ## 🤝 Let's Connect
 I'm always open to internships, collaborations, and interesting conversations. Feel free to reach out!
